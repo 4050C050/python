@@ -1,5 +1,25 @@
 # Linux 101
 
+### Linux CTF 4
+```
+你知道如何在Linux上做base64 解碼嗎?
+
+SSH 資訊
+IP : 120.114.62.72
+Port: 2200
+
+帳號 : lab
+密碼 : lab
+
+提示 : 檔案位置 /home/lab/base64.txt
+
+ cat /home/lab/base64.txt
+QnJlYWtBTExDVEZ7WHZYZVZYNUFlOUZ3blltRFYyalV9 → base64 convert
+BreakALLCTF{XvXeVX5Ae9FwnYmDV2jU}
+
+
+```
+
 ### Linux CTF 5
 ```
 你知道如何在Linux上找到secret秘密檔案嗎?
