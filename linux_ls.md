@@ -66,6 +66,8 @@ lab@29d4cf5af0ab:~$ ls --help
 Usage: ls [OPTION]... [FILE]...
 List information about the FILEs (the current directory by default).
 Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+列出有關檔案的信息（默認為當前目錄）。
+如果未指定-cftuvSUX 和--sort，則條目將按字母順序排序。
 
 Mandatory arguments to long options are mandatory for short options too.
   -a, --all                  do not ignore entries starting with .
