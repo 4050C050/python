@@ -1,3 +1,23 @@
+# Linux CTF 5
+
+### ls
+```
+你知道如何在Linux上找到secret秘密檔案嗎?
+
+SSH 資訊
+IP : 120.114.62.72
+Port: 2200
+
+帳號 : lab
+密碼 : lab
+
+find / -name secret
+cat /opt/secret
+BreakALLCTF{TPLGKbWxmutGtecSSpo1}
+
+```
+
+
 # ls 指令測試
 
 ### ls
