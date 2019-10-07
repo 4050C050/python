@@ -1,6 +1,6 @@
-# Linux CTF 5
+# Linux 101
 
-### ls
+### Linux CTF 5
 ```
 你知道如何在Linux上找到secret秘密檔案嗎?
 
